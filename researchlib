@@ -12,7 +12,7 @@ body {
   font-family: "Montserrat", sans-serif;
 }
 
-.NumberRangeFilter {
+NumberRangeFilter {
   font-family: "Montserrat", sans-serif;
   font-size: 1em
 }

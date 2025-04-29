@@ -1,12 +1,8 @@
-@font-face {
-  font-family: "Montserrat";
-  src: url("https://fonts.googleapis.com/css?family=Montserrat");
-}
+<link rel="stylesheet"
+  href="https://fonts.googleapis.com/css? family=Montserrat">
 
-@font-face {
-  font-family: "Comfortaa";
-  src: url("https://fonts.googleapis.com/css?family=Comfortaa");
-}
+<link rel="stylesheet"
+  href="https://fonts.googleapis.com/css? family=Comfortaa">
 
 body {
   font-family: "Montserrat", sans-serif;
